@@ -4,8 +4,8 @@ import sys
 
 ### User Configuration 
 # - Credentials
-ACCESS_KEY = 'AKIAITYZUP7NKQBKJIUQ'
-ACCESS_SECRET = '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'
+ACCESS_KEY = ''
+ACCESS_SECRET = ''
 REGION_NAME = ''
 PROFILE = ''
 
